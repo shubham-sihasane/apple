@@ -1,8 +1,8 @@
 
-resource "aws_instance" "devops_machine" {
-  ami           = "ami-07a00cf47dbbc844c"
-  instance_type = "t3.micro"
-}
+# resource "aws_instance" "devops_machine" {
+#  ami           = "ami-07a00cf47dbbc844c"
+#  instance_type = "t3.micro"
+# }
 
 # resource "github_repository" "example" {
 #   name        = "example-repo"
